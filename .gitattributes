@@ -42,4 +42,5 @@
 *.GTS linguist-detectable=true
 *.NCL linguist-detectable=true
 *.SOL linguist-detectable=true
-
+*.kicad_pcb linguist-detectable=true
+*.pro linguist-detectable=true
