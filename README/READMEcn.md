@@ -1,4 +1,4 @@
-# PCIE_Arduino ![(图片加载中)](README/img/0.png)
+# PCIE_Arduino ![(图片加载失败)](img/0.png)
 # [English](../README.md)
 
 集成在PCIE卡上的Arduino。实现方式为PCIE → RS232 → TTL → ATMEGA328P。
@@ -8,7 +8,7 @@
 ---
 [答] 区别在于PCIE和mini-PCIE的引脚有很大差异。
 ---
-![](README/img/mini-PCIE.png)
+![(图片加载失败)](img/mini-PCIE.png)
 如图所示,mini-PCIE的36和38脚其实就是usb。这个usb的控制芯片在主板上。
 而PCIE并没有这两个usb引脚。
 
@@ -20,4 +20,7 @@
 ---
 [答] 很难买到零售的PCIE转usb主控。
 ---
-尽管我就住在深圳华强北附近，我还是没找到零售的usb主控。只有这一个在Alpha0.1版本中应用的RS-232主控有零售的（这东西还不是免驱的就很烦）。如果这个芯片的效果不佳，后续可能会设计能买到的二手usb控制器的版本，
+尽管我就住在深圳华强北附近，我还是没找到零售的usb主控。只有这一个在Alpha0.1版本中应用的RS-232主控有零售的（这东西还不是免驱的就很烦）。如果这个芯片的效果不佳，后续可能会设计能买到的二手usb控制器的版本。
+
+![(图片加载失败)](img/1.png)
+![(图片加载失败)](img/2.png)

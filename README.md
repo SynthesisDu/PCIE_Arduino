@@ -1,4 +1,4 @@
-# PCIE_Arduino ![(Image loading)](README/img/0.png)
+# PCIE_Arduino ![(image load failed)](README/img/0.png)
 # [中文版](README/READMEcn.md)
 
 Arduino on PCIE (not miniPCIE). Achieved by PCIE → RS232 → TTL → ATMEGA328P.
@@ -8,7 +8,7 @@ Alpha testing, will be update quiet soon.
 ---
 [A] PCIE is quit different between mini-PCIE with arduino connect.
 ---
-![](README/img/mini-PCIE.png)
+![(image load failed)](README/img/mini-PCIE.png)
 
 As the picture shows, mini-PCIE's 36 & 38 pin is USB! The usb control ic is on the mutherboaed.
 Instead, PCIE doesn't has this two pin.
@@ -22,3 +22,6 @@ But as a diy project, I whould like to have a highly integrated design no matter
 [A] It is hard to buy a first hand USB host chip.
 ---
 I am in ShenZhen, China. Here has one of the electronic marketplace that has most abundant kind of ic in the world. But I still can't find a retail outlet usb ic. I can only find the only retailing RS-232 chip that I use in Alpha0.1 version (this chip even needs a special driver) . However I may try other usb chip that more common with second hand if this RS-232 chip not up to expectations.
+
+![(image load failed)](img/1.png)
+![(image load failed)](img/2.png)
