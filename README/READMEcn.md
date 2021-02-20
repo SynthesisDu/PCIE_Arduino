@@ -9,6 +9,7 @@
 [答] 区别在于PCIE和mini-PCIE的引脚有很大差异。
 ---
 ![(图片加载失败)](img/mini-PCIE.png)
+
 如图所示,mini-PCIE的36和38脚其实就是usb。这个usb的控制芯片在主板上。
 而PCIE并没有这两个usb引脚。
 
