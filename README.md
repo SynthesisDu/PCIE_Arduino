@@ -1,5 +1,5 @@
 # PCIE_Arduino ![(image load failed)](README/img/0.png)
-# [中文版](README/READMEcn.md)
+# [· 中文版](README/READMEcn.md)
 
 Arduino on PCIE (not miniPCIE). Achieved by PCIE → RS232 → TTL → ATMEGA328P.
 

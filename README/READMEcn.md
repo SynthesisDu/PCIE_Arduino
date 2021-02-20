@@ -1,5 +1,5 @@
 # PCIE_Arduino ![(图片加载失败)](img/0.png)
-# [English](../README.md)
+# [· English](../README.md)
 
 集成在PCIE卡上的Arduino。实现方式为PCIE → RS232 → TTL → ATMEGA328P。
 
