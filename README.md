@@ -1,5 +1,5 @@
 # PCIE_Arduino ![](README/img/0.png)
-* [中文版](README/READMEcn.md)
+# [中文版](README/READMEcn.md)
 
 Arduino on PCIE (not miniPCIE). Achieved by PCIE → RS232 → TTL → ATMEGA328P.
 Alpha testing, will be update quiet soon.
@@ -9,6 +9,7 @@ Alpha testing, will be update quiet soon.
 [A] PCIE is quit different between mini-PCIE with arduino connect.
 ---
 ![](README/img/mini-PCIE.png)
+
 As the picture shows, mini-PCIE's 36 & 38 pin is USB! The usb control ic is on the mutherboaed.
 Instead, PCIE doesn't has this two pin.
 
