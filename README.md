@@ -7,7 +7,7 @@ Alpha testing, will be update quiet soon.
 
 [Q] What's the difference between [moonpunchorg/pcieduino](https://github.com/moonpunchorg/pcieduino)?
 ---
-[A] PCIE is quit different between mini-PCIE with arduino connect.
+[A] Mini-PCIe incorporates USB, while the PCIe does not.
 ---
 ![(image load failed)](README/img/mini-PCIE.png)
 

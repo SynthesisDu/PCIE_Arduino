@@ -7,7 +7,7 @@
 
 [问] 这和 [moonpunchorg/pcieduino](https://github.com/moonpunchorg/pcieduino) 这个项目有什么区别?
 ---
-[答] 区别在于PCIE和mini-PCIE的引脚有很大差异。
+[答] 区别在于mini-PCIE自带usb，而PCIE没有。
 ---
 ![(图片加载失败)](img/mini-PCIE.png)
 
