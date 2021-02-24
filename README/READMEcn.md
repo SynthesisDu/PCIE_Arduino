@@ -5,7 +5,7 @@
 
 还在A测中。。。。。。
 
-[问] 这和 [moonpunchorg/pcieduino](https://github.com/moonpunchorg/pcieduino)这个项目有什么区别?
+[问] 这和 [moonpunchorg/pcieduino](https://github.com/moonpunchorg/pcieduino) 这个项目有什么区别?
 ---
 [答] 区别在于PCIE和mini-PCIE的引脚有很大差异。
 ---
