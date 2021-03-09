@@ -7,7 +7,7 @@ Alpha0.4 & Alpha1.1 testing
 ---
 -Use CH382L chipset / -Use VL805 chipset.
 
-25.2.2021 Alpha0.3 ![IMG](Alpha0.3 [EasyEDA]/README.md)
+25.2.2021 Alpha0.3
 ---
 -Use CH382L chipset.
 -Layout modification.
