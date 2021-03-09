@@ -5,7 +5,7 @@
 
 [EasyEDA] 立创EDA
 ---
- [Offical Web](https://lceda.cn/)
+ [Offical Web](https://easyeda.com/)
 
 I used EDA software when designing.Free, excellent compatibility, lightweight, and general functionality.
 

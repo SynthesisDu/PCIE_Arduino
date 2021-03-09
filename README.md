@@ -26,8 +26,5 @@ I am in ShenZhen, China. Here has one of the electronic marketplace that has mos
 
 
 
-
-
-
 ![(image load failed)](README/img/1.png)
 ![(image load failed)](README/img/2.png)
