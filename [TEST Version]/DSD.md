@@ -1,5 +1,4 @@
-# Design Software Description
-# [· 中文版](DSDcn.md)
+# Design Software Description [· 中文版](DSDcn.md)
 
 # [· BACK](README.md)
 

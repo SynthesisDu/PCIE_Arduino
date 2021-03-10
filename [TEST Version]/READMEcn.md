@@ -1,5 +1,4 @@
-# 索引
-# [· English](README.md)
+# 索引 [· English](README.md)
 
 # [· 设计软件说明](DSDcn.md)
 

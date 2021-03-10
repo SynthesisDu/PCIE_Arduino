@@ -1,5 +1,4 @@
-# 设计软件说明
-# [· English](DSD.md)
+# 设计软件说明 [· English](DSD.md)
 
 # [· 返回](READMEcn.md)
 
