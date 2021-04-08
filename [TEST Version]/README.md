@@ -2,7 +2,7 @@
 
 # [· 中文版](READMEcn.md)
 
-# [· Design Software Description](DSD.md)
+# [· Design Tools Description](DSD.md)
 
 Alpha0.4 & Alpha1.1 testing
 ---
