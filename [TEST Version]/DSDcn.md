@@ -4,9 +4,8 @@
 
 # [· 返回](READMEcn.md)
 
-[EasyEDA] 立创EDA
+[EasyEDA] 立创EDA（[官网](https://lceda.cn/)）
 ---
- [官网](https://lceda.cn/)
 
 **我设计时使用的EDA软件。免费，兼容性极好，轻量化，功能一般。**
 
