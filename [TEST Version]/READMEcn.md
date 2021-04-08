@@ -1,6 +1,8 @@
-# 索引 [· English](README.md)
+# 索引
 
-# [· 设计软件说明](DSDcn.md)
+#[· English](README.md)
+
+# [· 设计用软件说明](DSDcn.md)
 
 Alpha0.4 & Alpha1.1 测试中
 ---
