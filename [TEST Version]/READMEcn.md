@@ -2,7 +2,7 @@
 
 # [· English](README.md)
 
-# [· 设计环境说明](DSDcn.md)
+# [· 开发环境说明](DSDcn.md)
 
 Alpha0.4 & Alpha1.1 测试中
 ---
