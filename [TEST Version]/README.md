@@ -1,6 +1,8 @@
-# Indexes [· 中文版](READMEcn.md)
+# Indexes
 
-# [· Design Software Description](DSD.md)
+# [· 中文版](READMEcn.md)
+
+# [· Design Tools Description](DSD.md)
 
 Alpha0.4 & Alpha1.1 testing
 ---

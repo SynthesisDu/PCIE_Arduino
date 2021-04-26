@@ -1,10 +1,11 @@
-# Design Software Description [· 中文版](DSDcn.md)
+# Design Tools Description
+
+# [· 中文版](DSDcn.md)
 
 # [· BACK](README.md)
 
-[EasyEDA] 立创EDA
+[EasyEDA] 立创EDA ([Offical Web](https://easyeda.com/))
 ---
- [Offical Web](https://easyeda.com/)
 
 I used EDA software when designing.Free, excellent compatibility, lightweight, and general functionality.
 
