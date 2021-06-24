@@ -23,7 +23,3 @@ Instead, PCIE doesn't has this two pin.
 For those PCIE to mini-PCIE adapter card, if it wants to maintain the usb function, it will have a external usb cable. At least for me, I haven't saw a usb chip adapt design yet. The reason is obvious, it is not worth to do that.
 
 But as a diy project, I whould like to have a highly integrated design no matter the cost. I want to integration my arduino on a PCIE card and connect with my computer as usual, so I can use this base to make more cool things. Such as a RGB controller. Also this is a good chance for me to practice how to design high speed pcb.
-
-
-![(image load failed)](README/img/1.png)
-![(image load failed)](README/img/2.png)
